@@ -15,7 +15,7 @@ ngOnInit(): void{
 this.course = [
     {
         id: 1,
-        name: 'Comprtilhando Conhecimento',
+        name: 'Compartilhando Conhecimento',
         imageUrl: '/assets/images/4.png',
         price: 99.99,
         code: 'abc',
