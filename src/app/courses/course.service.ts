@@ -5,7 +5,7 @@ import { Course } from "./course";
     providedIn: 'root'
 })
 
-export class CouseService{
+export class CourseService{
 
     retrieveAll(): Course[]{
         return courses;
